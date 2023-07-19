@@ -1,0 +1,13 @@
+Minimum wait time for a passenger: 0
+Maximum wait time for a passenger: 180
+Mean wait time for a passenger: 63
+
+Minimum journey time for a passenger: 0
+Maximum journey time for a passenger: 220
+Mean journey time for a passenger: 86
+
+Elevator 0 floor to floor moves: 130
+Elevator 1 floor to floor moves: 115
+Elevator 2 floor to floor moves: 87
+
+Total time required to complete all passenger journeys: 6150 seconds
